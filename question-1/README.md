@@ -1,7 +1,3 @@
-Below is an academically styled README file tailored for submission purposes. It provides a rigorous, formal analysis of all commands used in the ELF binary analysis process, ensuring a clear demonstration of their application to the provided ELF64-x86-64 binary. The tone is professional, the structure is systematic, and each command is contextualized within the academic objective of reconstructing the binary’s functionality.
-
----
-
 # Academic Analysis of Commands for ELF Binary Reverse Engineering
 
 ## Introduction
