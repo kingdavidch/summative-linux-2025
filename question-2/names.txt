@@ -1,0 +1,33 @@
+Here are 30 random names you can use for your `names.txt` file:
+
+1. Alice  
+2. Bob  
+3. Charlotte  
+4. David  
+5. Emma  
+6. Frank  
+7. Grace  
+8. Henry  
+9. Isabella  
+10. James  
+11. Katherine  
+12. Liam  
+13. Mia  
+14. Noah  
+15. Olivia  
+16. Peter  
+17. Quinn  
+18. Rose  
+19. Samuel  
+20. Sophia  
+21. Thomas  
+22. Uma  
+23. Victor  
+24. Willow  
+25. Xavier  
+26. Yvonne  
+27. Zachary  
+28. Abigail  
+29. Benjamin  
+30. Clara  
+
