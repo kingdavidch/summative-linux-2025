@@ -1,6 +1,3 @@
-Here's an academic-style README file that explains the process for your C extension project:
-
-```markdown
 # Statistical Functions C Extension for Python
 
 ## Overview
@@ -97,21 +94,3 @@ This implementation serves as an example of:
 - Statistical computation implementation
 - Memory management in C
 - Error handling across language boundaries
-
-## Author
-[Your Name]
-[Date]
-[Course/Institution Information if applicable]
-```
-
-This README provides a comprehensive academic overview of the project, including:
-- Purpose and functionality
-- File structure
-- Technical requirements
-- Build and usage instructions
-- Implementation details
-- Error handling
-- Performance considerations
-- Academic relevance
-
-You can customize the author section and add any specific course-related information required for your assignment. The document is structured to be both informative for users and suitable for academic submission.
