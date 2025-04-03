@@ -1,8 +1,4 @@
-Below is an academic-style README file that explains the process of creating, compiling, and running the assembly program to count names from a file. It’s structured formally, as might be expected in an academic or technical documentation context.
-
----
-
-# README: Assembly Name Counter Program
+# Assembly Name Counter Program
 
 ## Overview
 This project implements an x86 assembly language program (`count_names.asm`) designed to read a text file (`names.txt`) containing a list of names, count the number of names (assuming each name is separated by a newline), and output the total count to the console. The program leverages Linux system calls for file operations and is accompanied by a Bash script (`count_names.sh`) to automate compilation and execution. This README provides a detailed explanation of the process, from setup to execution, for academic and technical understanding.
